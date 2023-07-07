@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Carlos Juventino.
 
-- 🔭 Hoje trabalho como motorista de aplicativo.
-- 🌱 Estudando HTML, CSS, JavaScript.
+- 🔭 Cursando último semestre em Analise e Desenvolvimento de Sistemas.
+- 🌱 Desenvolvedor Full Stack Python.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
